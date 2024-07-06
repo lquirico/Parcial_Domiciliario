@@ -1,0 +1,15 @@
+Reporte #1
+Fecha de solicitud: 06-07-2024
+Cantidad de proyectos que superan el presupuesto: 10
+
+Listado de proyectos que superan el presupuesto:
+ID: 1, Nombre: Plataforma de Gestión Empresarial, Presupuesto: 42931805
+ID: 2, Nombre: Sistema de Planificación de Recursos, Presupuesto: 642055083
+ID: 3, Nombre: Sistema de Información Epidemiológica, Presupuesto: 850312588
+ID: 4, Nombre: Red de Transporte Público, Presupuesto: 937383174
+ID: 5, Nombre: Royal Guard Tales, Presupuesto: 149912234
+ID: 6, Nombre: Laboratorio de Microbiología, Presupuesto: 325746996
+ID: 7, Nombre: Planificación de Sucesión, Presupuesto: 231786436
+ID: 8, Nombre: Sistema de Gestión de Documentos, Presupuesto: 65296214
+ID: 9, Nombre: Investigación de Trastornos del Sueño, Presupuesto: 555060646
+ID: 10, Nombre: Sistema de Incendios Extremo, Presupuesto: 240045465

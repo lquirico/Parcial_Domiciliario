@@ -1,0 +1,7 @@
+Reporte #1
+Fecha de solicitud: 06-07-2024
+Cantidad de proyectos: 1
+
+Listado de datos del proyecto:
+ID: 5, Nombre: Royal Guard Tales
+ Descripcion: La mejor obra de ficción jamas creada., Fecha de inicio: 06-06-2021, Fecha de Fin: 03-02-2030, Presupuesto: 149912234, Estado: Activo
