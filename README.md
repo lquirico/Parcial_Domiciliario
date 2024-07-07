@@ -1,1 +1,2 @@
-# Parcial_Domiciliario
+NOTA PARA LOS PROFESORES:
+Comence la prueba del proyecto por las opciones del menu referidas a la generacion de archivos para contar con mas variedad estados. Sobre todo ya que al seleccionar la opcion 4, teniendo en cuenta la fecha, casi la totalidad de los proyectos se cambiarian a 'finalizados' y deberia ir uno por uno modificandolos para correr otras opciones donde necesitaba de proyectos 'cancelados'. Esto es mas que nada para no alargar la duracion del video. 
